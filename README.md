@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Working on creating my own AWS VPC**  
+🔭 &nbsp;I'm currently working on **creating my own AWS VPC**  
 🌱 &nbsp;I'm currently learning **Java and Cloud Computing fundamentals**  
 👯 &nbsp;I'm looking to collaborate on **happy to jump in wherever an extra pair of hands helps**  
 🤔 &nbsp;I'm looking for help with **finding a solid learning roadmap across web, data, and mobile as there are  so many paths, so little time!**  
